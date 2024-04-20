@@ -1,0 +1,4 @@
+Comando para listar los remotos:  git remote -v
+Comando para cambiar de rama: git switch -c main
+Comando para agregar un nuevo remoto: git remote add jruiz16 https://github.com/jruiz16/test-change-origin.git | git remote add <nombre del origin> <URL del Repo>
+Comando para subir al nuevo remoto: git push jruiz16 main | git push <nombre del origin> <nombre de la rama>
